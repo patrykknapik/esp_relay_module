@@ -1,0 +1,30 @@
+Source,/Users/qatrick/Documents/ESPrelay/ESPrelay.sch
+Kicad Rev,Eeschema 4.0.6
+Generated Date,środa, 02 sierpnia 2017 12:47:46
+
+Title,Not Set
+Company,Not Set
+Revision,Not Set
+Date Issue,Not Set
+
+Reference,Value,Library,Library Ref
+U2,ESP-12E,ESP8266,ESP-12E
+R1,10k,device,R
+Q1,BC817-40,transistors,BC817-40
+D1,D,device,D
+RL1,RM50-xx11,relays,RM50-xx11
+R5,1k,device,R
+C1,10uF,device,CP
+C3,100nF,device,C
+R2,10k,device,R
+R4,10k,device,R
+R6,4k7,device,R
+R8,4k7,device,R
+R12,10k,device,R
+U1,IRM-02-3.3S,ac-dc,IRM-02-3.3S
+R3,10k,device,R
+J4,CONN_01X02,conn,CONN_01X02
+J3,CONN_01X05,conn,CONN_01X05
+J1,Screw_Terminal_1x04,conn,Screw_Terminal_1x04
+J2,CONN_01X03,conn,CONN_01X03
+J5,CONN_01X03,conn,CONN_01X03
